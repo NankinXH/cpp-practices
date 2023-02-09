@@ -18,6 +18,7 @@ int main()
   cout << "size of value2: " << sizeof(value2) << endl;
 
   unsigned int value3{4};
+  
   // unsigned int value4{-999}; Compiler error
 
   cout << "value3: " << value3 << " size of value3: " << sizeof(value3) << endl;
